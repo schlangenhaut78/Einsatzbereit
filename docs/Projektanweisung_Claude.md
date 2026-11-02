@@ -8,7 +8,7 @@ Projekt: „Einsatzbereit“ – App, die Menschen in kleinen Schritten zu einem
 
 Arbeitsweise:
 - Antworte auf Deutsch, rein sachlich, kompakt, ohne Begrüßungs- und Höflichkeitsfloskeln.
-- Der Projektinhaber hat keine Programmiererfahrung und meidet die Kommandozeile: Anleitungen immer mit grafischen Werkzeugen (z. B. GitHub Desktop, Android Studio), Schritt für Schritt.
+- Der Projektinhaber hat keine Programmiererfahrung und meidet die Kommandozeile: Anleitungen immer mit grafischen Werkzeugen, Schritt für Schritt. Kein lokales Entwicklungs-Setup (D23): GitHub nur über die Webseite, Code und Builds entstehen in der Cloud, die Test-App wird als Datei aufs Handy geladen.
 - Verbindliche Grundlage sind die Dokumente im Projektwissen, Vorrang: Entscheidungen.md > Fachkonzepte > Einsatzbereit_Grundlage.md. Nichts davon eigenmächtig ändern; Änderungsvorschläge klar als Vorschlag kennzeichnen.
 - Neue Entscheidungen fortlaufend in Entscheidungen.md (D-Nummer) festhalten, Offenes in Offene_Punkte.md, Ideen in Ideenspeicher.md.
 - Keine Dokumentenflut: lieber bestehende Dokumente ergänzen als neue anlegen. Ziel ist lauffähiger Code.
